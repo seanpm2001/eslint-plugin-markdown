@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.0.2](https://github.com/eslint/eslint-plugin-markdown/compare/v3.0.1...v3.0.2) (2023-10-23)
+
+
+### Chores
+
+* run tests in Node.js 21 ([#225](https://github.com/eslint/eslint-plugin-markdown/issues/225)) ([4d9f36f](https://github.com/eslint/eslint-plugin-markdown/commit/4d9f36f5c5fd1b5d3b1957913118cd76a92750f2))
+* standardize npm script names ([#223](https://github.com/eslint/eslint-plugin-markdown/issues/223)) ([6bdff60](https://github.com/eslint/eslint-plugin-markdown/commit/6bdff605b1d2793f9b20ec9cbadb5c55dbcb783a))
+
 ## [3.0.1](https://github.com/eslint/eslint-plugin-markdown/compare/v3.0.0...v3.0.1) (2023-07-15)
 
 
